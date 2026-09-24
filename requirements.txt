@@ -1,10 +1,4 @@
+Flask
 torch
 torchvision
-streamlit
-opencv-python-headless
-pillow
-numpy
-pandas
-scikit-learn
-matplotlib
-seaborn
+Pillow
