@@ -944,19 +944,6 @@ Before submitting changes, make sure that existing functionality continues to wo
 
 ---
 
-# License
-
-Add the project's license information here.
-
-For example:
-
-```text
-This project is licensed under the MIT License.
-```
-
-Only use this statement if the project is actually intended to use the MIT License.
-
----
 
 # Project Summary
 
